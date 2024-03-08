@@ -1,0 +1,50 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: #ff87c3;
+    text-align: center;
+    margin-left: 00px;
+
+}
+
+header{
+    padding: 0em;
+    color: white;
+    background-color: #d2449d;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+div h1{
+    text-align: center;
+    color: #fc6a8d;
+}
+
+nav{
+    size: 2cm;
+    
+    
+    background-color: aqua;
+}
+
+img{
+    width: 500px;
+}
+
+.button-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.button {
+    font-size: 40px;
+    color: yellow;
+    background-color: pink;
+    border-radius: 25px;
+    border: 2px solid pink;
+    margin-left: 30px; /* Ajusta el espacio entre los botones */
+    padding: 10px 20px;
+}
